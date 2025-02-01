@@ -111,7 +111,7 @@ D -- Setup your project
 
 Here is an example of my scope's name which I then used with the following command to setup my project.
 
-[4-1666631795666.png](https://www.servicenow.com/community/image/serverpage/image-id/211539i8280F9C874C6C7DB/image-size/medium?v=v2&px=400)
+![4-1666631795666.png](https://www.servicenow.com/community/image/serverpage/image-id/211539i8280F9C874C6C7DB/image-size/medium?v=v2&px=400)
 
 E -- Scaffold your Component
 ----------------------------
@@ -181,7 +181,7 @@ After deploying your component if it dispatches events you must go into your env
 
 2\. Locate the **sys\_us\_macroponent** record for your component and select your events in **Dispatched Events** field then save the record.
 
-[0-1678308507727.png](https://www.servicenow.com/community/image/serverpage/image-id/245841iA225FBD9D58A7028/image-size/medium?v=v2&px=400)
+![0-1678308507727.png](https://www.servicenow.com/community/image/serverpage/image-id/245841iA225FBD9D58A7028/image-size/medium?v=v2&px=400)
 
 Note: At one point there was a bug in the now cli which caused your event bindings to get wiped out after each deployment and I had suggested a work around here. As of version 1.1.2 (v26+ of the Servicenow that is no longer necessary!
 
