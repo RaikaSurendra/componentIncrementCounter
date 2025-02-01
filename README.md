@@ -2,7 +2,8 @@
 ===============================================
 Custom App
 
-Component Authors, provide some documentation for your users here!
+Original Author Jon G Lind
+[Article 1](https://www.servicenow.com/community/next-experience-articles/setting-up-command-line-interface-cli-for-custom-component-dev/ta-p/2361588)
 
 
 ServiceNow Command Line Interface (CLI)
@@ -62,7 +63,7 @@ Follow [the prompts](https://docs.servicenow.com/bundle/rome-application-develop
 
 NOTE: If you get this error "this instance does not support dynamic commands" go to your instance and navigate to "System Definition > Plugins" and search for and install "CLI Metadata" and continue on this guide.
 
-![JonGLind_0-1678478505541.png](/community/image/serverpage/image-id/246518iE515CF23DCB98EC4/image-size/large?v=v2&px=999 "JonGLind_0-1678478505541.png")
+![JonGLind_0-1678478505541.png](https://www.servicenow.com/community/image/serverpage/image-id/246518iE515CF23DCB98EC4/image-size/large?v=v2&px=999)
 
 C -- Add the UI Component Extension to the SNC CLI
 --------------------------------------------------
