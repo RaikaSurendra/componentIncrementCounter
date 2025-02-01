@@ -78,4 +78,4 @@ You may use the snc tool to update to the latest version of the ui-component ext
   
 You may receive another scary looking message "**COULD NOT VALIDATE INSTANCE VERSION BY ACCESSING**" but [you can fix it](https://www.servicenow.com/community/next-experience-articles/troubleshooting-servicenow-cli-errors/ta-p/2464448 "Fix Could Not Validate Instance Error").
 
-![JonGLind_0-1678478718974.png](/community/image/serverpage/image-id/246520iC75927C8C64FBDA0/image-size/large?v=v2&px=999 "JonGLind_0-1678478718974.png")
+![JonGLind_0-1678478718974.png](https://www.servicenow.com/community/image/serverpage/image-id/246520iC75927C8C64FBDA0/image-size/large?v=v2&px=999)
